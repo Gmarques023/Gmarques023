@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Marques</h1>
-<h3 align="center">A passionate Software developer from Portugal</h3>
+<h3 align="center">I am a software developer with a passion for creating innovative solutions. My goal is to contribute to impactful projects and collaborate with talented teams to build efficient and scalable applications. Whether it's through coding, learning new technologies, or sharing knowledge with others, I am always eager to push the boundaries of what is possible in the tech world.
+</h3>
 
-- 💬 Ask me about **Full Stack Related technologies**
+- 💬 Ask me about **software development, emerging technologies, and innovative solutions**
 
 - 📫 How to reach me **goncalom8484@gmail.com**
 
